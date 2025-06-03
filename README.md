@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Brian Sanders
 
 🎯 **Senior Backend Engineer | AI-Powered Systems | GenAI Specialist**  
-📍 Overton, TX | ✉️ briansanders1026@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/brian-s-sanders-9a1a74361/) • [Portfolio](#)
+📍 Overton, TX | ✉️ briansanders1026@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/brian-s-sanders-9a1a74361/) 
 
 ---
 
